@@ -15,23 +15,41 @@ Proyek ini bertujuan untuk menganalisis faktor-faktor yang menyebabkan kerugian 
 Dataset yang digunakan dalam analisis ini adalah SaaS-Sales.csv, yang mencakup informasi transaksi penjualan, seperti:
 
 Row ID: Identifikasi unik untuk setiap transaksi.
+
 Order ID: Identifikasi unik untuk setiap pesanan.
+
 Order Date: Tanggal saat pesanan ditempatkan.
+
 Date Key: Representasi numerik dari tanggal pesanan.
+
 Contact Name: Nama orang yang melakukan pesanan.
+
 Country: Negara tempat pesanan dilakukan.
+
 City: Kota tempat pesanan dilakukan.
+
 Region: Wilayah tempat pesanan dilakukan.
+
 Subregion: Subwilayah tempat pesanan dilakukan.
+
 Customer: Nama perusahaan yang melakukan pesanan.
+
 Customer ID: Identifikasi unik untuk setiap pelanggan.
+
 Industry: Industri yang dimiliki pelanggan.
+
 Segment: Segmen pelanggan (SMB, Strategis, Enterprise, dll.).
+
 Product: Produk yang dipesan.
+
 License: Kunci lisensi untuk produk.
+
 Sales: Jumlah total penjualan untuk transaksi.
+
 Quantity: Jumlah total barang dalam transaksi.
+
 Discount: Diskon yang diterapkan pada transaksi.
+
 Profit: Keuntungan dari transaksi.
 
 **Metodologi**
@@ -57,16 +75,15 @@ Pengaruh Diskon: Menilai bagaimana diskon mempengaruhi keuntungan dan penjualan.
 
 **Kesimpulan**
 
-Proporsi Transaksi Merugi: Sekitar 18.72% dari transaksi mengalami kerugian.
-Diskon dan Kerugian: Penerapan diskon 30% atau lebih cenderung menyebabkan kerugian.
-Rata-Rata Diskon: Diskon rata-rata pada transaksi yang merugi adalah 37.43%.
-Kenaikan Penjualan: Menghilangkan diskon dari transaksi yang merugi dapat meningkatkan penjualan secara signifikan.
+1. Proporsi Transaksi Merugi: Sekitar 18.72% dari transaksi mengalami kerugian.
+2. Diskon dan Kerugian: Penerapan diskon 30% atau lebih cenderung menyebabkan kerugian.
+3. Rata-Rata Diskon: Diskon rata-rata pada transaksi yang merugi adalah 37.43%.
+4. Kenaikan Penjualan: Menghilangkan diskon dari transaksi yang merugi dapat meningkatkan penjualan secara signifikan.
 
 **Rekomendasi**
-
-Hindari Pemberian Diskon: Diskon tidak membantu dalam meningkatkan penjualan atau profit. Jika harus memberikan diskon, pastikan diskon tidak melebihi 20%.
-Targetkan Diskon pada Area yang Tepat: Fokuskan diskon hanya pada produk dan lokasi yang tidak menyebabkan kerugian.
-Optimalkan Penetapan Harga: Pertimbangkan untuk menyesuaikan strategi harga dan diskon berdasarkan analisis untuk meminimalkan kerugian dan meningkatkan profitabilitas.
+1. Hindari Pemberian Diskon: Diskon tidak membantu dalam meningkatkan penjualan atau profit. Jika harus memberikan diskon, pastikan diskon tidak melebihi 20%.
+2. Targetkan Diskon pada Area yang Tepat: Fokuskan diskon hanya pada produk dan lokasi yang tidak menyebabkan kerugian.
+3. Optimalkan Penetapan Harga: Pertimbangkan untuk menyesuaikan strategi harga dan diskon berdasarkan analisis untuk meminimalkan kerugian dan meningkatkan profitabilitas.
 
 **Visualisasi**
 
