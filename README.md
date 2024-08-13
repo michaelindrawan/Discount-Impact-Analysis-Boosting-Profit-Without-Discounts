@@ -1,14 +1,17 @@
 **Analisis Keuntungan dan Diskon Penjualan Produk**
 
 **Deskripsi Proyek**
+
 Proyek ini bertujuan untuk menganalisis faktor-faktor yang menyebabkan kerugian dalam penjualan produk perusahaan dan memberikan rekomendasi untuk meningkatkan profitabilitas. Analisis ini dilakukan dengan menggunakan data penjualan dan diskon dari berbagai transaksi untuk mengidentifikasi pola kerugian serta menentukan strategi untuk memperbaikinya.
 
 **Tujuan**
+
 1. Menentukan faktor-faktor yang menyebabkan kerugian dalam transaksi penjualan produk.
 2. Menganalisis pengaruh diskon terhadap keuntungan dan penjualan.
 3. Memberikan rekomendasi untuk mengurangi kerugian dan meningkatkan profitabilitas.
 
 **Data**
+
 Dataset yang digunakan dalam analisis ini adalah SaaS-Sales.csv, yang mencakup informasi transaksi penjualan, seperti:
 
 Row ID: Identifikasi unik untuk setiap transaksi.
@@ -32,6 +35,7 @@ Discount: Diskon yang diterapkan pada transaksi.
 Profit: Keuntungan dari transaksi.
 
 **Metodologi**
+
 1. Pembersihan Data
 Pemeriksaan Data Kosong: Memastikan tidak ada nilai kosong atau duplikat dalam dataset.
 Pembersihan Data: Menghapus kolom yang tidak relevan untuk analisis seperti Row ID, Order ID, Order Date, Date Key, Contact Name, dan Customer ID.
@@ -52,29 +56,34 @@ Rata-Rata Diskon: Menghitung rata-rata diskon yang diterapkan pada transaksi yan
 Pengaruh Diskon: Menilai bagaimana diskon mempengaruhi keuntungan dan penjualan.
 
 **Kesimpulan**
+
 Proporsi Transaksi Merugi: Sekitar 18.72% dari transaksi mengalami kerugian.
 Diskon dan Kerugian: Penerapan diskon 30% atau lebih cenderung menyebabkan kerugian.
 Rata-Rata Diskon: Diskon rata-rata pada transaksi yang merugi adalah 37.43%.
 Kenaikan Penjualan: Menghilangkan diskon dari transaksi yang merugi dapat meningkatkan penjualan secara signifikan.
 
 **Rekomendasi**
+
 Hindari Pemberian Diskon: Diskon tidak membantu dalam meningkatkan penjualan atau profit. Jika harus memberikan diskon, pastikan diskon tidak melebihi 20%.
 Targetkan Diskon pada Area yang Tepat: Fokuskan diskon hanya pada produk dan lokasi yang tidak menyebabkan kerugian.
 Optimalkan Penetapan Harga: Pertimbangkan untuk menyesuaikan strategi harga dan diskon berdasarkan analisis untuk meminimalkan kerugian dan meningkatkan profitabilitas.
 
 **Visualisasi**
+
 Grafik dan plot yang menunjukkan hubungan antara diskon dan keuntungan.
 Bar chart yang menggambarkan total kerugian berdasarkan atribut seperti City dan Product.
 
 **Menggunakan**
-Unduh Dataset: Pastikan SaaS-Sales.csv ada di direktori kerja.
-Jalankan Skrip: Eksekusi skrip Python untuk melakukan analisis. Pastikan semua pustaka yang diperlukan telah terinstal.
-Lihat Hasil: Periksa hasil analisis dan visualisasi yang dihasilkan untuk wawasan lebih lanjut.
-Instalasi dan Persyaratan
-Pastikan Anda telah menginstal pustaka berikut:
 
-pandas
-matplotlib
-seaborn
-scipy
-numpy
+1. Unduh Dataset: Pastikan SaaS-Sales.csv ada di direktori kerja.
+2. Jalankan Skrip: Eksekusi skrip Python untuk melakukan analisis. Pastikan semua pustaka yang diperlukan telah terinstal.
+3. Lihat Hasil: Periksa hasil analisis dan visualisasi yang dihasilkan untuk wawasan lebih lanjut.
+
+**Instalasi dan Persyaratan**
+
+Pastikan Anda telah menginstal pustaka berikut:
+1. pandas
+2. matplotlib
+3. seaborn
+4. scipy
+5. numpy
