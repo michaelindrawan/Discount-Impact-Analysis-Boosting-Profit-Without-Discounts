@@ -85,17 +85,21 @@ Rata-Rata Diskon: Menghitung rata-rata diskon yang diterapkan pada transaksi yan
 
 Pengaruh Diskon: Menilai bagaimana diskon mempengaruhi keuntungan dan penjualan.
 
-**Kesimpulan**
+**Kesimpulan:**
 
-1. Proporsi Transaksi Merugi: Sekitar 18.72% dari transaksi mengalami kerugian.
-2. Diskon dan Kerugian: Penerapan diskon 30% atau lebih cenderung menyebabkan kerugian.
-3. Rata-Rata Diskon: Diskon rata-rata pada transaksi yang merugi adalah 37.43%.
-4. Kenaikan Penjualan: Menghilangkan diskon dari transaksi yang merugi dapat meningkatkan penjualan secara signifikan.
+1. Dampak Diskon pada Transaksi yang Merugi:
+Setiap transaksi produk yang merugi selalu menerapkan diskon dengan rata-rata diskon sebesar 37.43%. Penerapan diskon, terutama di atas 30%, justru menurunkan sales dan merugikan profit secara signifikan.
 
-**Rekomendasi**
-1. Hindari Pemberian Diskon: Diskon tidak membantu dalam meningkatkan penjualan atau profit. Jika harus memberikan diskon, pastikan diskon tidak melebihi 20%.
-2. Targetkan Diskon pada Area yang Tepat: Fokuskan diskon hanya pada produk dan lokasi yang tidak menyebabkan kerugian.
-3. Optimalkan Penetapan Harga: Pertimbangkan untuk menyesuaikan strategi harga dan diskon berdasarkan analisis untuk meminimalkan kerugian dan meningkatkan profitabilitas.
+2. Potensi Peningkatan Sales dan Profit:
+Menghilangkan diskon pada transaksi produk di kota-kota yang merugi dapat meningkatkan penjualan sebesar 29.33% dan profit sebesar 118.45%. Dengan menghindari diskon, penghematan uang dapat mencapai 140.423, dan profit yang didapat bisa meningkat menjadi 339.240.
+
+**Rekomendasi:**
+
+1. Hindari Diskon yang Berlebihan:
+Untuk meningkatkan profitabilitas, hindari pemberian diskon yang besar. Jika diskon harus diterapkan, batasi diskon di bawah 20% untuk mengurangi risiko kerugian.
+
+2. Evaluasi Diskon di Kota-Kota yang Merugi:
+Evaluasi dan hapus diskon untuk transaksi produk di kota-kota yang menunjukkan kerugian. Langkah ini berpotensi meningkatkan sales dan profit secara signifikan, serta mengurangi kerugian.
 
 **Visualisasi**
 
