@@ -59,6 +59,7 @@ Profit: Keuntungan dari transaksi.
 Pemeriksaan Data Kosong: Memastikan tidak ada nilai kosong atau duplikat dalam dataset.
 
 Pembersihan Data: Menghapus kolom yang tidak relevan untuk analisis seperti Row ID, Order ID, Order Date, Date Key, Contact Name, dan Customer ID.
+
 2. Analisis Deskriptif
 
 Proporsi Transaksi Merugi: Menghitung persentase transaksi yang mengalami kerugian.
@@ -66,19 +67,23 @@ Proporsi Transaksi Merugi: Menghitung persentase transaksi yang mengalami kerugi
 Uji Normalitas: Menggunakan uji Shapiro-Wilk untuk menentukan apakah data distribusi normal.
 
 Korelasi: Menganalisis korelasi antara variabel Profit, Sales, Quantity, dan Discount menggunakan metode Spearman.
+
 3. Analisis Korelasi dan Hubungan
 
 Analisis Korelasi: Menggunakan korelasi Spearman untuk menentukan hubungan antara variabel.
 
 Visualisasi: Membuat scatter plot dan grafik untuk menggambarkan hubungan antara variabel.
+
 4. Uji Chi-Square
 
 Uji Hubungan Kategori: Menggunakan uji Chi-Square untuk menguji hubungan antara Profit dengan atribut kategori seperti Country, City, Region, Subregion, Customer, Industry, Segment, dan Product.
+
 5. Analisis Kombinasi Atribut
 
 Identifikasi Kerugian: Menganalisis kombinasi atribut yang berkontribusi pada kerugian terbesar.
 
 Visualisasi Kerugian: Membuat bar chart untuk menggambarkan total kerugian berdasarkan kombinasi atribut.
+
 6. Analisis Diskon
 
 Rata-Rata Diskon: Menghitung rata-rata diskon yang diterapkan pada transaksi yang merugi.
