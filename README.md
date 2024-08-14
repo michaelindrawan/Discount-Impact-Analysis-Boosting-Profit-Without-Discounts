@@ -93,7 +93,7 @@ Profit: Keuntungan dari transaksi.
 **Kesimpulan:**
 
 1. Dampak Diskon pada Transaksi yang Merugi:
-Setiap transaksi produk yang merugi selalu menerapkan diskon dengan rata-rata diskon sebesar 37.43%. Penerapan diskon, terutama di atas 30%, justru merugikan profit secara signifikan.
+Setiap transaksi produk yang merugi selalu menerapkan diskon dengan rata-rata diskon sebesar 37.43%. Penerapan diskon, terutama di atas 30%, justru berdampak kecil pada penurunan sales dan  menyebabkan kerugian pada profit secara signifikan.
 
 2. Potensi Peningkatan Sales dan Profit:
 Menghilangkan diskon pada transaksi produk di kota-kota yang merugi dapat meningkatkan penjualan sebesar 29.33% dan profit sebesar 118.45%. Dengan menghindari diskon, penghematan uang dapat mencapai 140.423, dan profit yang didapat bisa meningkat menjadi 339.240.
