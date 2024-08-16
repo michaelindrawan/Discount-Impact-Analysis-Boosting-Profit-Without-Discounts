@@ -101,7 +101,7 @@ Menghilangkan diskon pada transaksi produk di kota-kota yang merugi dapat mening
 **Rekomendasi:**
 
 1. Hindari Diskon yang Berlebihan:
-Untuk meningkatkan profitabilitas, hindari pemberian diskon yang besar. Jika terpaksa ingin memberikan Discount, berikanlah diantara 0-10%, Hal ini berpotensi meningkatkan Sales tapi tidak menutup kemungkinan untuk mendatangkan kerugian seperti pada point ke-2.
+Untuk meningkatkan profitabilitas, hindari pemberian diskon yang besar. Jika ingin memberikan Discount, berikanlah diantara 0-10%, Hal ini berpotensi meningkatkan Sales tapi tidak menutup kemungkinan untuk mendatangkan kerugian seperti pada point ke-2.
 
 2. Evaluasi Diskon di Kota-Kota yang Merugi:
 Evaluasi dan hapus diskon untuk transaksi produk di kota-kota yang menunjukkan kerugian. Langkah ini berpotensi meningkatkan sales dan profit secara signifikan, serta mengurangi kerugian.
