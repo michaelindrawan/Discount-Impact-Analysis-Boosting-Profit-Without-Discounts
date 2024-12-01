@@ -1,4 +1,4 @@
-**Analisis Keuntungan dan Diskon Penjualan Produk**
+**Discount Impact Analysis: Boosting Profit Without Discounts**
 
 **Deskripsi Proyek**
 
